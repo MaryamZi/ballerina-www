@@ -6,7 +6,7 @@ Developers and third parties can extend the behavior of Ballerina and collate th
 
 2. Add new annotations to Ballerina source files so that the compiler can act to alter binaries and generate artifacts.
 
-3. Collate and distribute new webhook callback services that programmatically subscribe to accept content delivery requests on the occurrence of particular events.
+3. Collate and distribute new webhook callback services, that programmatically subscribe to accept content delivery requests on the occurrence of particular events.
 
 ## Create Client Connectors
 
